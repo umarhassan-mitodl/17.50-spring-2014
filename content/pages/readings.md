@@ -14,57 +14,57 @@ Pick recitation time 
 In class discussion: What is political science?{{< tdclose >}}{{< tdopen >}}No readings required{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**II. The State and Regime Type**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}2{{< tdclose >}}{{< tdopen >}}What is a state, and why have one? Process of state-building.{{< tdclose >}}{{< tdopen >}}
 Hobbes, Thomas. "Of the Natural Condition of Mankind as Concerning their Felicity and Misery." Chapter 13 in _Leviathan_. Renaissance Books, 2013. ISBN: 9781619491700. 
 ———. "Of the Causes, Generation, and Definition of a Commonwealth." Chapter 17 in _Leviathan_. Renaissance Books, 2013. ISBN: 9781619491700. 
-Hume, David. "{{% resource_link "226ee84f-bff0-4b7e-9f4a-a31850750e2c" "Of the Origin of Government" %}}." Part 1, Essay V in _Essays, Moral, Political and Literary_. econlib.org.
+Hume, David. "[Of the Origin of Government](http://www.econlib.org/library/LFBooks/Hume/hmMPL5.html#Part%20I,%20Essay%20V,%20OF%20THE%20ORIGIN%20OF%20GOVERNMENT)." Part 1, Essay V in _Essays, Moral, Political and Literary_. econlib.org.
 Tilly, Charles. "States and their Citizens." Chapter 4 in _Coercion, Capital, and European States, AD 990–1990_. Wiley-Blackwell, 1992, pp. 96–107. ISBN: 9781557863683.
 
 ### In Recitation
 
 Aristotle. "The Politics." In _Aristotle: The Politics and Constitution of Athens_. Edited by Stephen Everson. Cambridge University Press, 1996, Book III, Chapters 6–12 and Book IV, Chapters 1–2. ISBN: 9780521484008. 
 
-Schmitter, Philippe C., and Terry Lynn Karl. "{{% resource_link "0d916c0b-0201-4a9f-a9e6-a3b5672ddd06" "What Democracy is…and is Not" %}}." _Journal of Democracy_ 2, no. 3 (1991): 75–88.
+Schmitter, Philippe C., and Terry Lynn Karl. "[What Democracy is…and is Not](http://dx.doi.org/10.1353/jod.1991.0033)." _Journal of Democracy_ 2, no. 3 (1991): 75–88.
 
 de Tocqueville, Alexis. "What are the Real Advantages That American Society Gains from the Government of Democracy?" In _Democracy in America._ Vol. 2. Edited by Eduardo Nolla. Liberty Fund, 2012, pp. 375–84. ISBN: 9780865978409.
 
-Zakaria, Fareed, and Lee Kuan Yew. "{{% resource_link "f45846ff-b566-40c2-8d93-883bae73370b" "Culture Is Destiny: A Conversation with Lee Kuan Yew" %}}." _Foreign Affairs_ 73, no. 2 (1994): 109–26.
+Zakaria, Fareed, and Lee Kuan Yew. "[Culture Is Destiny: A Conversation with Lee Kuan Yew](http://www.jstor.org/stable/20045923)." _Foreign Affairs_ 73, no. 2 (1994): 109–26.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}3{{< tdclose >}}{{< tdopen >}}Discussion of Lee Kuan Yew's remarks on democracy   
 Brainstorming on paper topic{{< tdclose >}}{{< tdopen >}}No readings required{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**III. Four Lenses**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}4{{< tdclose >}}{{< tdopen >}}Social divisions (and conflict){{< tdclose >}}{{< tdopen >}}
-Madison, James. "{{% resource_link "899cf9a1-7814-462c-b051-7600749fd9be" "The Federalist No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection (continued)" %}}." constitution.org.
+Madison, James. "[The Federalist No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection (continued)](http://www.constitution.org/fed/federa10.htm)." constitution.org.
 Marx, Karl, and Friedrich Engels. "Manifesto of the Communist Party, Part I: Bourgeois and Proletarians." In _The Marx-Engels Reader_. 2nd ed. Edited by Robert C. Tucker. W. W. Norton, 1978. ISBN: 9780393090406.
 
 Horowitz, Donald L. _Ethnic Groups in Conflict_. University of California Press, 2000, pp. 51–64. ISBN: 9780520227064.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}5{{< tdclose >}}{{< tdopen >}}Culture (and corruption){{< tdclose >}}{{< tdopen >}}Fisman, Raymond, and Edward Miguel. "{{% resource_link "ae4ad86f-4b82-4eae-85c6-17ba47a08dcf" "Corruption, Norms, and Legal Enforcement: Evidence from Diplomatic Parking Tickets" %}}." _Journal of Political Economy_ 115, no. 6 (2007): 1020–48.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}6{{< tdclose >}}{{< tdopen >}}Institutions (and government performance){{< tdclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}5{{< tdclose >}}{{< tdopen >}}Culture (and corruption){{< tdclose >}}{{< tdopen >}}Fisman, Raymond, and Edward Miguel. "[Corruption, Norms, and Legal Enforcement: Evidence from Diplomatic Parking Tickets](http://www.jstor.org/discover/10.1086/527495?uid=3739696&uid=2&uid=4&uid=3739256&sid=21105021925723)." _Journal of Political Economy_ 115, no. 6 (2007): 1020–48.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}6{{< tdclose >}}{{< tdopen >}}Institutions (and government performance){{< tdclose >}}{{< tdopen >}}
 Lijphart, Arend. "Introduction." Chapter 1 in _Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries_. Yale University Press, 1999. ISBN: 9780300078930.
 ———. "Executive-Legislative Relations: Patterns of Dominance and Balance of Power." Chapter 7 in _Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries_. Yale University Press, 1999, pp. 116–24. ISBN: 9780300078930.
 
 ———. "Electoral Systems: Majority and Plurality Methods Versus Proportional Representation." Chapter 8 in _Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries_. Yale University Press, 1999. ISBN: 9780300078930.
 
-Stepan, Alfred. "{{% resource_link "5241c727-d95c-4ff5-930f-35da9448c146" "Federalism and Democracy: Beyond the U.S. Model" %}}." _Journal of Democracy_ 10, no. 4 (1999): 19–34.
+Stepan, Alfred. "[Federalism and Democracy: Beyond the U.S. Model](http://dx.doi.org/10.1353/jod.1999.0072)." _Journal of Democracy_ 10, no. 4 (1999): 19–34.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}7{{< tdclose >}}{{< tdopen >}}Leadership and indispensability   
 Buzz groups on paper topic{{< tdclose >}}{{< tdopen >}}
 ### In Recitation
-Simonton, Dean Keith. "{{% resource_link "316e9410-f3d1-4f56-baff-bd5a6a141ff1" "Presidential IQ, Openness, Intellectual Brilliance, and Leadership: Estimates and Correlations for 42 U.S. Chief Executives" %}}." _Political Psychology_ 27, no. 4 (2006): 511–26.
+Simonton, Dean Keith. "[Presidential IQ, Openness, Intellectual Brilliance, and Leadership: Estimates and Correlations for 42 U.S. Chief Executives](http://dx.doi.org/10.1111/j.1467-9221.2006.00524.x)." _Political Psychology_ 27, no. 4 (2006): 511–26.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**IV. Democratization**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}8{{< tdclose >}}{{< tdopen >}}Why do countries become democratic?{{< tdclose >}}{{< tdopen >}}
 Lipset, Seymour Martin. "Economic Development and Democracy." Chapter 2 in _Political Man: The Social Bases of Politics_. Anchor Books, 1963. ISBN: 9780385066501.
 Dahl, Robert A. "Why Polyarchy Developed in Some Countries and Not Others." Chapter 18 in _Democracy and Its Critics_. Yale University Press, 1991. ISBN: 9780300049381.
 
-"{{% resource_link "e97a505d-6f55-4824-886b-3ee08f0b6e3f" "Egypt" %}}." The World Factbook. cia.gov.
+"[Egypt](https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html)." The World Factbook. cia.gov.
 
-"{{% resource_link "344bbb08-9012-450e-9a15-08a6d733fa8d" "Libya" %}}." The World Factbook. cia.gov.
+"[Libya](https://www.cia.gov/library/publications/the-world-factbook/geos/ly.html)." The World Factbook. cia.gov.
 
-"{{% resource_link "49fdd51d-b2b0-4883-9b8b-19b2d0ffb967" "Morocco" %}}." The World Factbook. cia.gov.
+"[Morocco](https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html)." The World Factbook. cia.gov.
 
-"{{% resource_link "5db3d011-f30c-4817-b824-6a0aedda9ee9" "Syria" %}}." The World Factbook. cia.gov.
+"[Syria](https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html)." The World Factbook. cia.gov.
 
-"{{% resource_link "c2a0759f-1200-480e-9050-5d0cefc4f100" "Tunisia" %}}." The World Factbook. cia.gov.
+"[Tunisia](https://www.cia.gov/library/publications/the-world-factbook/geos/ts.html)." The World Factbook. cia.gov.
 
-"{{% resource_link "2c39823b-bb62-4dfa-b1ec-5de13e479e93" "Yemen" %}}." The World Factbook. cia.gov.
+"[Yemen](https://www.cia.gov/library/publications/the-world-factbook/geos/ym.html)." The World Factbook. cia.gov.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}9{{< tdclose >}}{{< tdopen >}}Class presentations on Arab Spring{{< tdclose >}}{{< tdopen >}}No readings required{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**V. Case Study on the Breakdown of Democracy: Inter-war Germany**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}10{{< tdclose >}}{{< tdopen >}}Why did democracy break down in inter-war Germany?{{< tdclose >}}{{< tdopen >}}
-Hoffmann-Lange, Ursula. "Germany: Twentieth Century Turning Points." In _Elites, Crises, and the Origins of Regimes_. Edited by Mattei Dogan and John Higley. Rowman & Littlefield Publishers, 1998, pp. 170–74. ISBN: 9780847690237. \[Preview with {{% resource_link "c6c66627-903f-460f-b9a1-c192789e9e30" "Google Books" %}}\]
+Hoffmann-Lange, Ursula. "Germany: Twentieth Century Turning Points." In _Elites, Crises, and the Origins of Regimes_. Edited by Mattei Dogan and John Higley. Rowman & Littlefield Publishers, 1998, pp. 170–74. ISBN: 9780847690237. \[Preview with [Google Books](http://books.google.com/books?id=8qZMFmK_KicC&pg=PA169#v=onepage)\]
 Overy, Richard. "From War to Third Reich 1918–1933." Part 1 in _The Penguin Historical Atlas of the Third Reich_. Penguin, 1997. ISBN: 9780140513301.
 
 Lepsius, M. Ranier. "From Fragmented Party Democracy to Government by Emergency Decree and National Socialist Takeover: Germany." Chapter 2 in _The Breakdown of Democratic Regimes: Europe_. Edited by Juan J. Linz and Alfred Stepan. John Hopkins University Press, 1978. ISBN: 9780801820229.
@@ -84,8 +84,8 @@ Simon, Walter B. "Democracy in the Shadow of Imposed Sovereignty: The First Repu
 Stepan, Alfred. "Political Leadership and Regime Breakdown: Brazil." Chapter 4 in _The Breakdown of Democratic Regimes: Latin America_. Edited by Juan J. Linz and Alfred Stepan. John Hopkins University Press, 1978. ISBN: 9780801820236.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}13{{< tdclose >}}{{< tdopen >}}Discussion of Europe and Latin America{{< tdclose >}}{{< tdopen >}}No readings required{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**VI. Political Institutions and Economic Growth**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}14{{< tdclose >}}{{< tdopen >}}Broad theories of economic development{{< tdclose >}}{{< tdopen >}}
-North, Douglass C. "{{% resource_link "2f985578-8947-4f11-bea8-d2710553ac96" "Institutions" %}}." _Journal of Economic Perspectives_ 5, no. 1 (1991): 97–112.
-Rodrik, Dani, Arvind Subramanian, et al. "{{% resource_link "5a2405b9-3130-46ca-90f2-cdf06746c944" "Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development" %}}." _Journal of Economic Growth_ 9, no. 2 (2004): 131–65.
+North, Douglass C. "[Institutions](http://www.jstor.org/stable/1942704)." _Journal of Economic Perspectives_ 5, no. 1 (1991): 97–112.
+Rodrik, Dani, Arvind Subramanian, et al. "[Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development](http://dx.doi.org/10.1023/B:JOEG.0000031425.72248.85)." _Journal of Economic Growth_ 9, no. 2 (2004): 131–65.
 
 de Soto, Hernando. "The Five Mysteries of Capital." Chapter 1 in _The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else_. Basic Books, 2003. ISBN: 9780465016150.
 
@@ -97,11 +97,11 @@ de Soto, Hernando. "The Five Mysteries of Capital." Chapter 1 in _The Mystery of
 
 Discussion of analysis in Rodrik, et al. reading.
 
-Rodrik, Dani, Arvind Subramanian, et al. "{{% resource_link "5a2405b9-3130-46ca-90f2-cdf06746c944" "Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development" %}}." _Journal of Economic Growth_ 9, no. 2 (2004): 131–65.
+Rodrik, Dani, Arvind Subramanian, et al. "[Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development](http://dx.doi.org/10.1023/B:JOEG.0000031425.72248.85)." _Journal of Economic Growth_ 9, no. 2 (2004): 131–65.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}15{{< tdclose >}}{{< tdopen >}}Discussion of North and de Soto versus industrial policy{{< tdclose >}}{{< tdopen >}}No readings required{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**VII. Why did Women get the Vote (and Other Rights)?**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}16{{< tdclose >}}{{< tdopen >}}Background on women's emancipation   
 Group meeting to identify sources and division of labor{{< tdclose >}}{{< tdopen >}}
-Alami, Aida. "{{% resource_link "2c67f646-cb85-4f42-b03b-e1e531eea0fc" "Gender Inequality in Morocco Continues, Despite Amendments to Family Law" %}}," _New York Times_, March 16, 2014.
+Alami, Aida. "[Gender Inequality in Morocco Continues, Despite Amendments to Family Law](http://www.nytimes.com/2014/03/17/world/africa/gender-inequality-in-morocco-continues-despite-amendments-to-family-law.html?_r=1)," _New York Times_, March 16, 2014.
 {{% resource\_link 5b602cd7-e131-fb80-5bea-e94c0199bb5b "Women's suffrage table (US) (XLS)" %}}
 
 {{% resource\_link 77134d0d-2c91-aaa1-1bfc-6bde1c48124f "Women's suffrage table (World) (XLS)" %}}
@@ -113,23 +113,23 @@ Carter, Susan B. "Table Ba5096–5119: Time spent on housework and family care, 
 Basic information available on web and key academic studies, as identified by groups.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}17{{< tdclose >}}{{< tdopen >}}Group meetings{{< tdclose >}}{{< tdopen >}}No readings required{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**VIII. Classical Athens**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}18{{< tdclose >}}{{< tdopen >}}Society, politics, and the rule of law in classical Greece{{< tdclose >}}{{< tdopen >}}
-{{% resource_link "f13687b8-e4fa-4d3f-9595-c7932096226d" "History of Athens" %}}, wikipedia.org.
-Aristotle. {{% resource_link "43c1089c-c23b-4934-b1ff-cb62ad339523" "The Athenian Constitution, Parts 42–69" %}}, classics.mit.edu.
+[History of Athens](http://en.wikipedia.org/wiki/History_of_Athens), wikipedia.org.
+Aristotle. [The Athenian Constitution, Parts 42–69](http://classics.mit.edu/Aristotle/athenian_const.1.1.html), classics.mit.edu.
 
-Ober, Josiah. "{{% resource_link "9422978b-55a7-420e-90ef-f994928618df" "Learning from Athens" %}}." _Boston Review_, March 1, 2006.
+Ober, Josiah. "[Learning from Athens](http://www.bostonreview.net/josiah-ober-learning-from-athens)." _Boston Review_, March 1, 2006.
 
-Schmitter, Philippe C. {{% resource_link "a29771ca-d8ba-42ae-bc5a-8c3f68a3279f" "\"A Proposal for the Creation of a 'Citizen's Assembly'. (PDF)\"" %}} 2002.
+Schmitter, Philippe C. ["A Proposal for the Creation of a 'Citizen's Assembly'. (PDF)"](http://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf) 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}19{{< tdclose >}}{{< tdopen >}}Presentations by breakout groups: Are there any lessons from Athens that could be applied to modern democracies? That should be applied?{{< tdclose >}}{{< tdopen >}}No readings required{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**IX. The U.S. in Comparative Perspective**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}20{{< tdclose >}}{{< tdopen >}}
 What's right and what's wrong with the U.S.?
 Presentations by breakout groups: Identification of potential reforms: "Big" (presidentialism, federalism, bicameralism, and plurality-winner electoral rules) and "small"
 
 {{< tdclose >}}{{< tdopen >}}
-Liptak, Adam. "{{% resource_link "b701e054-2ff5-4f4f-8454-3b18d466b8ec" "Justice Stevens Suggests Solution for 'Giant Step in the Wrong Direction'" %}}," _New York Times_, April 21, 2014.
+Liptak, Adam. "[Justice Stevens Suggests Solution for 'Giant Step in the Wrong Direction'](http://www.nytimes.com/2014/04/22/us/politics/justice-stevenss-prescription-for-giant-step-in-wrong-direction.html?_r=0)," _New York Times_, April 21, 2014.
 
-"{{% resource_link "efb9f6da-34b9-4358-925b-3f8e7d91373b" "What Are Justice Stevens's Proposed Six Amendments?" %}}" joshblackman.com., March 4, 2014.
+"[What Are Justice Stevens's Proposed Six Amendments?](http://joshblackman.com/blog/2014/03/04/what-are-justice-stevenss-proposed-six-amendments/)" joshblackman.com., March 4, 2014.
 
-{{% resource_link "ddf6c473-47cd-4739-9bd2-9f4e69ae7b59" "The Constitution of the United States of America" %}}, constitutionus.com.
+[The Constitution of the United States of America](http://constitutionus.com/), constitutionus.com.
 
 Dahl, Robert A. _How Democratic is the American Constitution?_ 2nd ed. Yale University Press, 2003. ISBN: 9780300095241.
 
@@ -142,19 +142,19 @@ Schlesinger, Jr., Arthur M. "Leave the Constitution Alone." Chapter 10 in _Parli
 Kramnick, Isaac, ed. "Editor's Introduction." _The Federalist Papers_. Penguin Classics, 1987. ISBN: 0051488012399.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}21{{< tdclose >}}{{< tdopen >}}Presentations by breakout groups: Discussion of foreign benchmarks and recent proposals{{< tdclose >}}{{< tdopen >}}Readings on failed amendments, recent proposed reforms, and examples of constitutional engineering in other countries and U.S. states, as identified by breakout groups.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}22{{< tdclose >}}{{< tdopen >}}Discussion and critique of presentations by breakout groups{{< tdclose >}}{{< tdopen >}}No readings required{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**X. State-building, Ethnic Conflict, and "Democracy" in Iraq**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}23{{< tdclose >}}{{< tdopen >}}Attempts to impose democracy by foreign powers{{< tdclose >}}{{< tdopen >}}
-Diamond, Larry Jay. "{{% resource_link "238d51a9-aaa0-4c76-930b-9e76f87eeb30" "Lessons from Iraq" %}}." _Journal of Democracy_ 16, no. 1 (2005): 9–23.
-Darden, Keith, and Harris Mylonas. "{{% resource_link "e3e9a916-4158-4878-b715-04efd8a90c99" "The Promethean Dilemma: Third-party State-building in Occupied Territories" %}}." _Ethnopolitics_ 11, no. 1 (2012): 85–93.
+Diamond, Larry Jay. "[Lessons from Iraq](http://dx.doi.org/10.1353/jod.2005.0004)." _Journal of Democracy_ 16, no. 1 (2005): 9–23.
+Darden, Keith, and Harris Mylonas. "[The Promethean Dilemma: Third-party State-building in Occupied Territories](http://dx.doi.org/10.1080/17449057.2011.596127)." _Ethnopolitics_ 11, no. 1 (2012): 85–93.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}24{{< tdclose >}}{{< tdopen >}}Show and tell on Iraq{{< tdclose >}}{{< tdopen >}}Independent reading on Iraq{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}25{{< tdclose >}}{{< tdopen >}}Discussion of "solutions" for Iraq{{< tdclose >}}{{< tdopen >}}
-Zahori, Habib, and Azam Ahmed. "{{% resource_link "d46a1fa9-18ca-4515-ba86-2e873cd9b56a" "Lack of Orderly Means to Distribute Aid is Latest Setback for Afghan Village" %}}," _New York Times_, May 5, 2014.
-Byman, Daniel. "{{% resource_link "5fdd4827-53d6-4b2c-80ee-5043e0b7730a" "An Autopsy of the Iraq Debacle: Policy Failure or Bridge Too Far?" %}}" _Security Studies_ 17, no. 4 (2008): 599–643.
+Zahori, Habib, and Azam Ahmed. "[Lack of Orderly Means to Distribute Aid is Latest Setback for Afghan Village](http://www.nytimes.com/2014/05/06/world/asia/lack-of-orderly-means-to-distribute-aid-is-latest-setback-for-afghan-village.html)," _New York Times_, May 5, 2014.
+Byman, Daniel. "[An Autopsy of the Iraq Debacle: Policy Failure or Bridge Too Far?](http://dx.doi.org/10.1080/09636410802507974)" _Security Studies_ 17, no. 4 (2008): 599–643.
 
-Dawisha, Adeed I., and Karen Dawisha. "{{% resource_link "2efd71b9-cd47-48b7-b38b-ae9aea12647d" "How to Build a Democratic Iraq" %}}." _Foreign Affairs_ 82, no. 3 (2003): 36–50.
+Dawisha, Adeed I., and Karen Dawisha. "[How to Build a Democratic Iraq](http://www.foreignaffairs.com/articles/58973/adeed-i-dawisha-and-karen-dawisha/how-to-build-a-democratic-iraq)." _Foreign Affairs_ 82, no. 3 (2003): 36–50.
 
-Lawson, Chappell. "{{% resource_link "65563154-099f-4d9d-8799-b5b38025b818" "How Best to Build Democracy: Laying a Foundation for a New Iraq" %}}." _Foreign Affairs_ 82, no. 4 (2003): 206–9.
+Lawson, Chappell. "[How Best to Build Democracy: Laying a Foundation for a New Iraq](http://www.foreignaffairs.com/articles/59014/chappell-lawson/how-best-to-build-democracy-laying-a-foundation-for-the-new-iraq)." _Foreign Affairs_ 82, no. 4 (2003): 206–9.
 
-Filkins, Dexter. "{{% resource_link "a3fd9691-2fc7-482c-aa15-33c92db46546" "Solution: Break Up Iraq; Reality: It's Not So Easy" %}}," _New York Times_, June 25, 2006.
+Filkins, Dexter. "[Solution: Break Up Iraq; Reality: It's Not So Easy](http://www.nytimes.com/2006/06/25/weekinreview/25filkins.html?fta=y&_r=0)," _New York Times_, June 25, 2006.
 
-Bremer, L. Paul, James Dobbins, et al. "{{% resource_link "2f875a72-00f9-45cc-a611-557c0a8bdc2d" "Early Days in Iraq: Decisions of the CPA" %}}." _Survival_ 50, no. 4 (2008): 21–56.
+Bremer, L. Paul, James Dobbins, et al. "[Early Days in Iraq: Decisions of the CPA](http://dx.doi.org/10.1080/00396330802328925)." _Survival_ 50, no. 4 (2008): 21–56.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}26{{< tdclose >}}{{< tdopen >}}Discussion of final exam{{< tdclose >}}{{< tdopen >}}No readings required{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

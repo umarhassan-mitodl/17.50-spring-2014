@@ -33,8 +33,8 @@ There are no prerequisites for this course.
 
 - CI-H ![](/images/educator/icon-question-cih.png)
 - HASS ![](/images/educator/icon-question-hass.png)
-- 17.50 can be applied toward a {{% resource_link "919045df-4741-4f7d-a015-ab3d17d0d02f" "Master of Science in Political Science" %}}
-- 17.50 can be applied toward a {{% resource_link "596fb5ea-fc4c-4b0c-81b3-4366aaca6be3" "PhD in Political Science" %}}
+- 17.50 can be applied toward a [Master of Science in Political Science](http://web.mit.edu/polisci/graduate/masters.html)
+- 17.50 can be applied toward a [PhD in Political Science](http://web.mit.edu/polisci/graduate/phd.html)
 
 ### Offered
 

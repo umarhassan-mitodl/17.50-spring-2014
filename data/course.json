@@ -38,6 +38,7 @@
     "website": "17-50-introduction-to-comparative-politics-spring-2014"
   },
   "course_title": "Introduction to Comparative Politics",
+  "hide_download": true,
   "course_description": "This course examines why democracy emerges and survives in some countries rather than in others; how political institutions affect economic development; and how American politics compares to that of other countries.\n",
   "department_numbers": [
     "17"
@@ -48,6 +49,7 @@
     "content": "3c4b8fbf-49fa-65fa-3311-2b083915b3a7",
     "website": "17-50-introduction-to-comparative-politics-spring-2014"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Exams",
     "Activity Assignments",

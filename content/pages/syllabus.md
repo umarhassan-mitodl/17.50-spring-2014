@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on what the class is about,
   who should take it, course meeting times, prerequisites, readings, class participation,
   activities, papers, the final exam, grading policy, and plagiarism clause.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -61,7 +63,7 @@ We would like to practice blind grading, so please do not include a title page o
 
 I will read a sample of the papers and the TA will read and grade all of them. If you do not like the grade the TA gave you, you may appeal to me. You will then receive the grade I give, whether higher or lower. Of course, you may also ask for me to read and comment on any paper you submit _without_ appealing your grade if you simply want my feedback.
 
-Extensive resources are available to you if you want help with writing, such as the {{% resource_link "9ed22c1d-d76a-4ac5-8e08-a66c9822d86c" "MIT Writing and Communication Center" %}}, the TA, the course website, and the instructor. Some hints for writing papers are attached; we urge you to internalize them.
+Extensive resources are available to you if you want help with writing, such as the [MIT Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/), the TA, the course website, and the instructor. Some hints for writing papers are attached; we urge you to internalize them.
 
 For further detail, please see the {{% resource_link 06c3a5bc-1490-018b-af04-49d8a72bcb9d "Assignments" %}} section.
 
@@ -139,4 +141,4 @@ Class participation, with some attempt to take into account which individuals co
 Plagiarism Clause
 -----------------
 
-When writing a paper (or essay exam), you must identify the nature and extent of your intellectual indebtedness to the authors whom you have read or to anyone else from whom you have gotten ideas (e.g., classmates, invited lecturers, etc.). You can do so through footnotes, a bibliography, or some other kind of scholarly device. Failure to disclose your reliance on the research or thinking of others is **Plagiarism**, which is considered to be the most serious academic offense and will be treated as such. If you have any questions about how you should document the sources of your ideas, please ask your instructors before you submit your work. You should also consult _{{% resource_link "ad7cb42d-6027-4235-a2b9-46481ebe022e" "Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)" %}}_ for guidance.
+When writing a paper (or essay exam), you must identify the nature and extent of your intellectual indebtedness to the authors whom you have read or to anyone else from whom you have gotten ideas (e.g., classmates, invited lecturers, etc.). You can do so through footnotes, a bibliography, or some other kind of scholarly device. Failure to disclose your reliance on the research or thinking of others is **Plagiarism**, which is considered to be the most serious academic offense and will be treated as such. If you have any questions about how you should document the sources of your ideas, please ask your instructors before you submit your work. You should also consult _[Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf)_ for guidance.
