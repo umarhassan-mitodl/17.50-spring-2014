@@ -4,8 +4,6 @@ description: This is a resource regarding Women's suffrage table (World).
 file: /courses/17-50-introduction-to-comparative-politics-spring-2014/77134d0d2c91aaa11bfc6bde1c48124f_MIT17_50S14_Suffrage_World.xlsx
 file_size: 55416
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
